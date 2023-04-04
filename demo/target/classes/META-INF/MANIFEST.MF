@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: gok
+Build-Jdk: 17.0.4
+Implementation-Title: TestRestApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.s2g.testrestapplication
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/testrestapplic
+ ation/
+Created-By: Maven Integration for Eclipse
+
